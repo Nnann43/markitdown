@@ -358,3 +358,6 @@ trademarks or logos is subject to and must follow
 [Microsoft's Trademark & Brand Guidelines](https://www.microsoft.com/en-us/legal/intellectualproperty/trademarks/usage/general).
 Use of Microsoft trademarks or logos in modified versions of this project must not cause confusion or imply Microsoft sponsorship.
 Any use of third-party trademarks or logos are subject to those third-party's policies.
+
+## 中文使用说明
+ MartItDown 是一款微软开源的Python工具，可将PDF，Word，图片等多种格式文件，一键转换为标准Markdown格式，适合文档处理与AI数据预处理
